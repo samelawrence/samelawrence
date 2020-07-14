@@ -1,6 +1,7 @@
 ### Hi, I'm Sam. I'm a mid-level QA Automation Engineer and hobbyist programmer.
 
 🌱 - I’m currently learning Javascript, OpenTest, and Italian!
+
 😄 - Pronouns: He/Him.
 
 <!--
