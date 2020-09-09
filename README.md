@@ -1,4 +1,4 @@
-### Hi, I'm Sam. I'm a mid-level QA Automation Engineer and hobbyist programmer.
+### Hi, I'm Sam. I'm a QA automation engineer and software quality advocate.
 
 🌱 - I’m currently learning Javascript, OpenTest, and Italian!
 
