@@ -2,7 +2,7 @@
 
 🌱 - Currently learning: Javascript, OpenTest, and Italian!
 
-🐦 - [Twitter](https://twitter.com/samelawrence), 💼 - [LinkedIn](https://www.linkedin.com/in/samelawrence/)
+🐦 - [Twitter](https://twitter.com/samelawrence) | 💼 - [LinkedIn](https://www.linkedin.com/in/samelawrence/)
 
 😄 - Pronouns: He/Him.
 
