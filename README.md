@@ -1,8 +1,8 @@
 ### Hi, I'm Sam. I'm a QA automation engineer and software quality advocate.
 
-🌱 - Currently learning: Javascript, OpenTest, and Italian!
+🌱 - Currently learning: [OpenTest](https://getopentest.org/), [Ableton Live](https://www.ableton.com/) and [Italian](https://www.duolingo.com/)!
 
-🐦 - [Twitter](https://twitter.com/samelawrence) | 💼 - [LinkedIn](https://www.linkedin.com/in/samelawrence/)
+🐦 - [Twitter](https://twitter.com/samelawrence) |\\|//| 💼 - [LinkedIn](https://www.linkedin.com/in/samelawrence/)
 
 😄 - Pronouns: He/Him.
 
