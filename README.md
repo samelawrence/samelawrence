@@ -2,7 +2,7 @@
 
 🌱 - Currently learning: [OpenTest](https://getopentest.org/), [Ableton Live](https://www.ableton.com/) and [Italian](https://www.duolingo.com/)!
 
-🐦 - [Twitter](https://twitter.com/samelawrence) |\\|//| 💼 - [LinkedIn](https://www.linkedin.com/in/samelawrence/)
+🐦 - [Twitter](https://twitter.com/samelawrence) | 💼 - [LinkedIn](https://www.linkedin.com/in/samelawrence/)
 
 😄 - Pronouns: He/Him.
 
