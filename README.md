@@ -1,6 +1,8 @@
 ### Hi, I'm Sam. I'm a QA automation engineer and software quality advocate.
 
-🌱 - Currently learning: [OpenTest](https://getopentest.org/), [Ableton Live](https://www.ableton.com/) and [Italian](https://www.duolingo.com/)!
+⏳ - Previously used [OpenTest](https://getopentest.org/) for Android app testing.
+
+🌱 - Currently learning: [Cypress](https://www.cypress.io/), [Ableton Live](https://www.ableton.com/), and [Italian](https://www.duolingo.com/)!
 
 🐦 - [Twitter](https://twitter.com/samelawrence) | 💼 - [LinkedIn](https://www.linkedin.com/in/samelawrence/)
 
