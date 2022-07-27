@@ -1,4 +1,4 @@
-### Hi, I'm Sam. I'm a QA automation engineer and software quality advocate. I use [Cypress](https://www.cypress.io/) to test web applications and I'm an experienced leader of overseas SDET teams.
+### Hi, I'm Sam. I'm a QA automation engineer and software quality advocate. I use [Cypress](https://www.cypress.io/) to test web applications and I'm an experienced leader of distributed teams.
 
 ⏳ - Previously used [OpenTest](https://getopentest.org/) for Android app testing.
 
