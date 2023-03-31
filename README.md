@@ -2,7 +2,7 @@
 
 ⏳ - Previously used [OpenTest](https://getopentest.org/) for Android app testing.
 
-🌱 - Other learning: [Ableton Live](https://www.ableton.com/), bass guitar, and [Spanish](https://www.duolingo.com/)!
+🌱 - Other learning: [Ableton Live](https://www.ableton.com/), bass guitar, and [German](https://www.duolingo.com/)!
 
 🐦 - [Twitter](https://twitter.com/samelawrence) | 💼 - [LinkedIn](https://www.linkedin.com/in/samelawrence/)
 
