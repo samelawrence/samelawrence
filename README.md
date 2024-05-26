@@ -8,7 +8,7 @@
 
 😄 - Pronouns: He/Him.
 
-🌐 - Other profiles: [Dev.to](https://dev.to/samelawrence), [Stack Overflow](https://stackoverflow.com/users/542762/qa-sam), [Dribbble](https://dribbble.com/sel), [Pluralsight](https://app.pluralsight.com/profile/samelawrence)
+🌐 - Other profiles: [Dev.to](https://dev.to/samelawrence), [Stack Overflow](https://stackoverflow.com/users/542762/qa-sam)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
