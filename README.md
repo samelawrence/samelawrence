@@ -4,11 +4,11 @@
 
 🌱 - Other learning: [Ableton Live](https://www.ableton.com/), bass guitar, and [German](https://www.duolingo.com/)!
 
-🐦 - [Twitter](https://twitter.com/samelawrence) | 💼 - [LinkedIn](https://www.linkedin.com/in/samelawrence/)
+💼 - [LinkedIn](https://www.linkedin.com/in/samelawrence/)
 
 😄 - Pronouns: He/Him.
 
-🌐 - Other profiles: [Dev.to](https://dev.to/samelawrence), [Stack Overflow](https://stackoverflow.com/users/542762/qa-sam)
+🌐 - Other profiles: [Dev.to](https://dev.to/samelawrence)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
