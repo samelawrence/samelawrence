@@ -2,15 +2,13 @@
 
 ⏳ - Previously: [OpenTest](https://getopentest.org/) for Android app testing.
 
-🌱 - Other learning: [Ableton Live](https://www.ableton.com/), bass guitar, and [German](https://www.duolingo.com/)!
+🌱 - Other learning: [Ableton Live](https://www.ableton.com/), bass/guitar, and German!
 
 💼 - [LinkedIn](https://www.linkedin.com/in/samelawrence/)
 
 😄 - Pronouns: He/Him.
 
 🌐 - Other profiles: [Dev.to](https://dev.to/samelawrence)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **samelawrence/samelawrence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
